@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://matatehe.github.io/sitemap.matatehe.gz
+Sitemap: https://matatehe.github.io/app/sitemap.matatehe.gz
+Sitemap: https://matatehe.github.io/assets/sitemap.matatehe.gz
+Sitemap: https://matatehe.github.io/css/sitemap.matatehe.gz
+Sitemap: https://matatehe.github.io/data/sitemap.matatehe.gz
+Sitemap: https://matatehe.github.io/includes/sitemap.matatehe.gz
+Sitemap: https://matatehe.github.io/item/sitemap.matatehe.gz
+Sitemap: https://matatehe.github.io/src/sitemap.matatehe.gz
